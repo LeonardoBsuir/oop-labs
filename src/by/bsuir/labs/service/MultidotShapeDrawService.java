@@ -5,6 +5,7 @@ import java.awt.event.MouseEvent;
 
 import by.bsuir.labs.model.Polyline;
 import by.bsuir.labs.util.Point;
+import by.bsuir.labs.view.ShapesDrawer;
 
 public abstract class MultidotShapeDrawService extends DrawService {
 	

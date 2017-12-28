@@ -7,6 +7,7 @@ import javax.swing.JButton;
 
 import by.bsuir.labs.model.Shape;
 import by.bsuir.labs.util.Point;
+import by.bsuir.labs.view.ShapesDrawer;
 
 public abstract class DrawService extends MouseAdapter {
 	

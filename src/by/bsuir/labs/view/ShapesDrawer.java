@@ -1,4 +1,4 @@
-package by.bsuir.labs.service;
+package by.bsuir.labs.view;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -11,6 +11,7 @@ import javax.swing.JButton;
 import javax.swing.JPanel;
 
 import by.bsuir.labs.model.Shape;
+import by.bsuir.labs.service.DrawService;
 
 public class ShapesDrawer extends JPanel {
 
